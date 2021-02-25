@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    android:layout_margin="10sp"
+    android:background="#b7e0dc"
+    android:columnCount="5"
+    android:rowCount="5"
+    tools:context=".PlayGame">
+
+
+    <Button
+        android:id="@+id/button00"
+        android:backgroundTint="#00aedb"
+        android:layout_height="86dp"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="72dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button01"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="72dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button02"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="72dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button03"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="72dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button04"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="72dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button10"
+        android:backgroundTint="#00aedb"
+        android:layout_height="90dp"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="70dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button11"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="70dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button12"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button13"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button14"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button20"
+        android:backgroundTint="#00aedb"
+        android:layout_height="90dp"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button21"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button22"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button23"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button24"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button30"
+        android:backgroundTint="#00aedb"
+        android:layout_height="90dp"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button31"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button32"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button33"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button34"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button40"
+        android:backgroundTint="#00aedb"
+        android:layout_height="90dp"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button41"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button42"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button43"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <Button
+        android:id="@+id/button44"
+        android:backgroundTint="#00aedb"
+        android:layout_gravity="fill"
+        android:layout_margin="5sp"
+        android:minWidth="50dip"
+        android:onClick="onButtonClicked"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:text="Player 1:"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:text="X"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_viewP1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:text="Player 2:"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_viewP2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:text=" O"
+        android:textSize="20dp"
+        />
+
+    <Button
+        android:id="@+id/button_reset"
+        android:backgroundTint="#a200ff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="33dp"
+        android:onClick="onReset"
+        android:text="reset" />
+
+    <TextView
+        android:id="@+id/win_message"
+        android:layout_width="75dp"
+        android:layout_height="65dp"
+        android:layout_gravity="bottom"
+        android:textSize="24dp"
+        android:text="       " />
+
+    <TextView
+        android:id="@+id/win_message2"
+        android:layout_width="75dp"
+        android:layout_height="65dp"
+        android:layout_gravity="bottom"
+        android:textSize="24dp"
+        android:text="       " />
+
+</GridLayout>
+
+
+
